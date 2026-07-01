@@ -10,14 +10,14 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 15003, guid: 0000000000000000e000000000000000, type: 0}
-  m_Name: my build profile - Desktop - Release
+  m_Name: My Cega Assignment - Desktop - Release
   m_EditorClassIdentifier: UnityEditor.dll::UnityEditor.Build.Profile.BuildProfile
   m_AssetVersion: 1
   m_BuildTarget: 20
   m_Subtarget: 0
   m_PlatformId: 84a3bb9e7420477f885e98145999eb20
   m_PlatformBuildProfile:
-    rid: 7865845742721040385
+    rid: 7865845745906614371
   m_OverrideGlobalSceneList: 0
   m_Scenes: []
   m_HasScriptingDefines: 0
@@ -35,8 +35,8 @@ MonoBehaviour:
     - line: '|   targetDevice: 2'
     - line: '|   useOnDemandResources: 0'
     - line: '|   accelerometerFrequency: 60'
-    - line: '|   companyName: Created By Ali'
-    - line: '|   productName: ''Diamond Rush '''
+    - line: '|   companyName: Made By Ali'
+    - line: '|   productName: Diamond Rush'
     - line: '|   defaultCursor: {instanceID: 0}'
     - line: '|   cursorHotspot: {x: 0, y: 0}'
     - line: '|   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b:
@@ -853,7 +853,7 @@ MonoBehaviour:
   references:
     version: 2
     RefIds:
-    - rid: 7865845742721040385
+    - rid: 7865845745906614371
       type: {class: WebGLPlatformSettings, ns: UnityEditor.WebGL, asm: UnityEditor.WebGL.Extensions}
       data:
         m_Development: 0
